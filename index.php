@@ -17,6 +17,8 @@
 </header>
 <!-- carousel -images of college-->
 <!-- in page/new tab sections-->
-
+<!--js-->
+  <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/smoothscroll.js"></script>
 </body>
 </html>
