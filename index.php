@@ -70,37 +70,35 @@
       		<li data-target="#myCarousel" data-slide-to="1"></li>
       		<li data-target="#myCarousel" data-slide-to="2"></li>
       		<li data-target="#myCarousel" data-slide-to="3"></li>
+          <li data-target="#myCarousel" data-slide-to="4"></li>
+          <li data-target="#myCarousel" data-slide-to="5"></li>
     	</ol>
 
     <!-- Wrapper for slides -->
     	<div class="carousel-inner" role="listbox">
       		<div class="item active">
-        		<img src="./assets/images/tomorrowland-2012.jpg"  style="width:100%;height:100%">
-         		<div class="carousel-caption">
-         			<h3>2012</h3>
-         		</div>
+        		<img src="./assets/images/NSIT.jpg"  style="width:100%;height:100%">
       		</div>
 
       		<div class="item">
-        		<img src="./assets/images/2013.jpg" style="width:100%;height:100%">
-         		<div class="carousel-caption">
-         			<h3>2013</h3>
-         		</div>
+        		<img src="./assets/images/32.jpg" style="width:100%;height:100%">
       		</div>
     
       		<div class="item">
-        			<img src="./assets/images/2014.jpg" style="width:100%;height:100%">
- 		  			<div class="carousel-caption">
-         				<h3>2014</h3>
-         			</div>    
+        			<img src="./assets/images/1432670973CampusPic2.jpg" style="width:100%;height:100%">  
       		</div>
 
       		<div class="item">
-        		<img src="./assets/images/2015.jpg"  style="width:100%;height:100%">
-         		<div class="carousel-caption">
-         			<h3>2015</h3>
-         		</div>
+        		<img src="./assets/images/Netaji_Subhas_Institute_of_Technology_(NSIT)_-_Admin_Block.jpg"  style="width:100%;height:100%">
       		</div>
+
+          <div class="item">
+              <img src="./assets/images/2.jpg" style="width:100%;height:100%">    
+          </div>
+
+          <div class="item">
+              <img src="./assets/images/1406793695image003.jpg" style="width:100%;height:100%">    
+          </div>
     	</div>
 
     <!-- Left and right controls -->
