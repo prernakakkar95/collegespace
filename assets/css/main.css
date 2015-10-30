@@ -1,3 +1,46 @@
+div.b{position:absolute;
+   top:130px;
+  left:50px;
+  float:left;
+
+
+}
+div.c
+{  position:absolute;
+    top:90px;
+   left:50px;
+   float:left;
+}
+
+.dropdown{margin-left:10px;
+position:absolute;
+   top:182px;}
+
+
+#btn1
+{
+
+background-color:gray;
+color:white;
+}
+
+#txt1{
+position:absolute;
+top:30px;
+right:50px;
+ float:right;
+border-style:solid gray;
+border-width:3px;
+}
+
+#btn2{
+position:absolute;
+background-color:red;
+top:30px;
+right:15px;
+ float:right;
+}
+
 .CS-cover {
 	background-image: url('i-love-edm.jpg');
 	height:	200px;
