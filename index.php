@@ -15,12 +15,27 @@
 	
 </head>
 <body>
-	<!--  written nsit with collegespace -->
+<!--  written nsit with collegespace -->
 	<div class="CS-cover">
-		<div class="container">
-		<!--Add image in main.css-->	
+	
+
+<img src="./assets/images/cs.jpg" height=188px width="100%"/>
+
+<div class="b">
+<input type="button" id="btn1" value="login student" />
+</div>
+<div class="c">
+<input type="button" id="btn1" value="login faculty " />
+</div>
+<input type="textbox" placeholder="SEARCH" id="txt1" width="35px" />
+<input type="button" id="btn2" value="go" />
+
+
+
+	<!--div class="container">
+		<!--Add image in main.css>	
 		</div>
-	</div>
+	</div-->
 	<!--nav-->
 	<nav class="navbar navbar-inverse">
    		<div class="container-fluid">
