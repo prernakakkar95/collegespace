@@ -82,18 +82,25 @@ right:15px;
 }
 .Footer {
     bottom: 0;
-	height:80px;
+	height:100px;
 	width: 100%;
-	background-color: #F2F2F1;
-	text-align: right;
-}
-.Footer .container img{
-	margin-top: 14px;
+	background-color: #202020;
+	text-align: center;
 }
 .Footer p{
-	margin-top: 50px;
+	margin-top: 10px;
 	color: #6D6D6C;
 }
-.content{
-	background-color: grey;
+.inner a {
+	margin: 8px auto;
+	text-align: center;
+    color: white; 
+    text-decoration: none;
+}
+#outer{
+    width:100%;
+    text-align: center;
+}
+.inner {
+    display: inline-block; 
 }

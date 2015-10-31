@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
 <head>
 <title>COLLEGESPACE||TASK1</title>
 
@@ -9,8 +10,8 @@
 	<link rel="stylesheet" href="./assets/css/main.css">
    
 	<!-- FONT ICONS -->
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/icomoon.css">
+    <link rel="stylesheet" href="./assets/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./assets/css/icomoon.css">
 
 	
 </head>
@@ -36,6 +37,7 @@
 		<!--Add image in main.css>	
 		</div>
 	</div-->
+
 	<!--nav-->
 	<nav class="navbar navbar-inverse">
    		<div class="container-fluid">
@@ -59,10 +61,12 @@
     		</div>
   		</div>
 	</nav>
+  
 
-	<!-- carousel -images of college-->          <!-- Replace the images and Captions Later-->
+	<!-- carousel -images of college-->         
 	<div class="Roller">
 		<div class="container">
+
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     	<ol class="carousel-indicators">
@@ -132,12 +136,27 @@
 
                             </form>
 	</section>
+
 	<!--Footer-->
 	<div class="Footer">
 		<div class="container">
-			<!--<img class="pull-left" src="logocs.jpg" style=" height:50px" />-->
-			<p>Powered by College Space</p>
-		<!-- add links of various social platforms-->
+		
+    <!--Links to Social Platforms-->
+    <div id="outer">
+    <div class="inner"><a class="btn btn-block btn-social-icon btn-twitter" style="background-color:#55ACEE ;width:50px;font-color:white">
+    <i class="fa fa-twitter fa-2x" ></i><a></div>
+
+    <div class="inner"><a class="btn btn-block btn-social-icon btn-facebook" style="background-color:#3B5998 ;width:50px;font-color:white">
+    <i class="fa fa-facebook fa-2x" ></i><a></div>
+
+    <div class="inner"><a class="btn btn-block btn-social-icon btn-linkedin" style="background-color:#007BB6 ;width:50px;font-color:white">
+    <i class="fa fa-linkedin fa-2x" ></i><a></div>
+  </div>
+
+  
+			<p> © 2015 CollegeSpace. All rights reserved</p>
+	
+
 		</div>
 	</div>
 
