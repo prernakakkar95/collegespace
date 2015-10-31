@@ -138,6 +138,10 @@
                             </form>
 	</section>
 
+  <div class="contact">
+    <button type="button" class="btn btn-default btn-lg" id="myBtn">CONTACT US</button>
+  </div>
+
 	<!--Footer-->
 	<div class="Footer">
 		<div class="container">
@@ -160,10 +164,51 @@
 
 		</div>
 	</div>
+  
+    <!-- Modal -->
+
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header" style="padding:35px 50px;">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4><span></span>CONTACT US</h4>
+        </div>
+        <div class="modal-body" style="padding:40px 50px;">
+          <form role="form">
+            <div class="form-group">
+                <input id="contact-name" type="text" name="name" class="form-control placeholder form-cus" placeholder="Your Name">
+            </div>
+            <div class="form-group">
+                <input id="contact-email" type="text" name="email" class="form-control placeholder form-cus" placeholder="Email Address">
+            </div>
+            <div class="form-group">
+                <textarea id="contact-message" name="message" class="form-control placeholder form-cus" placeholder="Message" rows="5"></textarea>
+                </div>
+            <button type="submit" class="btn btn-success btn-block" style="background-color:#202020;border: 1px solid #202020;"><span class="glyphicon glyphicon-envelope"></span>SUBMIT</button>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal" ><span class="glyphicon glyphicon-remove"></span> Cancel</button>
+        </div>
+      </div>
+      
+    </div>
+  </div> 
+</div>
 
 	<!--js-->
-	<script src="./assets/js/jquery.min.js"></script>
+	  <script src="./assets/js/jquery.min.js"></script>
     <script src="./assets/js/bootstrap.min.js"></script>
     <script src="./assets/js/smoothscroll.js"></script>
+    <script>
+$(document).ready(function(){
+    $("#myBtn").click(function(){
+        $("#myModal").modal();
+    });
+});
+</script>
 </body>
 </html>
