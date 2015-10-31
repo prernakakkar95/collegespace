@@ -112,7 +112,8 @@
 		</div>
 	</div>
 	<!-- in page/new tab sections-->
-	<section>
+
+	<section style="width:400px;">
 	 <form id="contact">
 
                                 <!-- Contact Form Headline -->
@@ -143,13 +144,13 @@
 		
     <!--Links to Social Platforms-->
     <div id="outer">
-   <div class="inner"><a href="https://www.facebook.com/collegespace/" class="btn btn-block btn-social-icon btn-facebook" style="background-color:#55ACEE ;width:50px;font-color:white">
+   <div class="inner"><a href="https://www.facebook.com/collegespace/" target="_blank" class="btn btn-block btn-social-icon btn-facebook" style="background-color:#3B5998 ;width:50px">
     <i class="fa fa-facebook fa-2x" ></i><a></div>
 
-    <div class="inner"><a href="https://twitter.com/college_space" class="btn btn-block btn-social-icon btn-twitter" style="background-color:#3B5998 ;width:50px;font-color:white">
+    <div class="inner"><a href="https://twitter.com/college_space" target="_blank" class="btn btn-block btn-social-icon btn-twitter" style="background-color:#55ACEE ;width:50px">
     <i class="fa fa-twitter fa-2x" ></i><a></div>
 
-    <div class="inner"><a href="https://www.linkedin.com/company/collegespace" class="btn btn-block btn-social-icon btn-linkedin" style="background-color:#007BB6 ;width:50px;font-color:white">
+    <div class="inner"><a href="https://www.linkedin.com/company/collegespace" target="_blank" class="btn btn-block btn-social-icon btn-linkedin" style="background-color:#007BB6 ;width:50px">
     <i class="fa fa-linkedin fa-2x" ></i><a></div>
   </div>
 
