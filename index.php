@@ -79,34 +79,35 @@
     	</ol>
 
     <!-- Wrapper for slides -->
-    	<div class="carousel-inner" role="listbox" style="width:700px;margin:auto;">
+    	<div class="carousel-inner" role="listbox" style="margin:auto;">
       		<div class="item active">
-        		<img src="./assets/images/NSIT.jpg"  style="width:700px;height:300px">
+        		<img src="./assets/images/NSIT.jpg">
+
       		</div>
 
       		<div class="item">
-        		<img src="./assets/images/32.jpg" style="width:700px;height:300px">
+        		<img src="./assets/images/32.jpg">
       		</div>
     
       		<div class="item">
-        			<img src="./assets/images/1432670973CampusPic2.jpg" style="width:700px;height:300px">  
+        			<img src="./assets/images/1432670973CampusPic2.jpg">  
       		</div>
 
       		<div class="item">
-        		<img src="./assets/images/Netaji_Subhas_Institute_of_Technology_(NSIT)_-_Admin_Block.jpg"  style="width:700px;height:300px">
+        		<img src="./assets/images/Netaji_Subhas_Institute_of_Technology_(NSIT)_-_Admin_Block.jpg">
       		</div>
 
           <div class="item">
-              <img src="./assets/images/2.jpg" style="width:700px;height:300px">    
+              <img src="./assets/images/2.jpg">    
           </div>
 
           <div class="item" >
-              <img src="./assets/images/1406793695image003.jpg" style="width:700px;height:300px">    
+              <img src="./assets/images/1406793695image003.jpg">    
           </div>
 
           <!-- Left and right controls -->
-          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"></a>
-          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"></a>
+          <!--<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"></a>
+          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"></a>-->
     	</div>
   	</div>
 		</div>
