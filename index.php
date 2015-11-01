@@ -7,7 +7,7 @@
 	<!-- BOOTSTRAP CSS -->
 	<link rel="stylesheet" href="./assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./assets/css/main.css">
-
+   
 	<!-- FONT ICONS -->
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/icomoon.css">
@@ -53,7 +53,7 @@
 					<li><a href="#">OUR FACULTY</a></li>
 					<li><a href="#">STUDENT RESOURCES</a></li>
 					<li><a href="#">OTHER RESOURCES</a></li>
-					<li><a href="#">CONTACT NSIT</a></li>
+					<li><a href="#contact">CONTACT NSIT</a></li>
 					<li><a href="#">THE CS TEAM</a></li>
         		</ul>   
     		</div>
@@ -108,7 +108,30 @@
 		</div>
 	</div>
 	<!-- in page/new tab sections-->
-	
+	<section>
+	 <form id="contact">
+
+                                <!-- Contact Form Headline -->
+                                <p><strong>Contact form:</strong></p>
+
+                                <!-- Contact Form Field -->
+                                <div class="form-group">
+                                    <input id="contact-name" type="text" name="name" class="form-control placeholder form-cus" placeholder="Your Name">
+                                </div>
+                                <div class="form-group">
+                                    <input id="contact-email" type="text" name="email" class="form-control placeholder form-cus" placeholder="Email Address">
+                                </div>
+                                <div class="form-group">
+                                    <textarea id="contact-message" name="message" class="form-control placeholder form-cus" placeholder="Message" rows="5"></textarea>
+                                </div>
+
+                               
+                                <div class="form-group">
+                                    <button class="btn btn-1 btn-top">Submit</button>
+                                </div>
+
+                            </form>
+	</section>
 	<!--Footer-->
 	<div class="Footer">
 		<div class="container">
