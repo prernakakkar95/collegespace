@@ -137,6 +137,7 @@
 		<div class="container">
 			<!--<img class="pull-left" src="logocs.jpg" style=" height:50px" />-->
 			<p>Powered by College Space</p>
+		<!-- add links of various social platforms-->
 		</div>
 	</div>
 
