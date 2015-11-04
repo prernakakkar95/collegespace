@@ -119,7 +119,18 @@
 		</div>
 	</div>
 	<!-- in page/new tab sections-->
+<section>
+<!--societies-->
 
+<div>
+</div>
+<!-- buzz-->
+<div>
+</div>
+<!--notices-->
+<div>
+</div>
+</section>
 	<section style="width:400px;">
 	 <form id="contact">
 
