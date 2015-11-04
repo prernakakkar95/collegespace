@@ -4,7 +4,7 @@ display:flex;
 }
 #fb{
 position:relative;
-left:650px;
+left:1130px;
 
 }
 #f1{
@@ -21,12 +21,12 @@ font-size:20px;
 }
 #twitter{
 position:relative;
-left:660px;
+left:1140px;
 
 }
 #google{
 position:relative;
-left:670px;
+left:1150px;
 
 }
 div.b{position:absolute;
