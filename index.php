@@ -33,6 +33,12 @@
 
 
 
+   
+<ul id="links">
+<li id="fb"><a href="https://www.facebook.com/collegespace/" target="_blank"><i class="fa fa-facebook-official" id="f1"></i></a></li>
+<li id="twitter"><a href="https://twitter.com/college_space" target="_blank"><i class="fa fa-twitter-square" id="t1"></i></a></li>
+<li id="google"><a href="https://plus.google.com/communities/118256355148042817165" target="_blank"><i class="fa fa-google-plus-square" id="g1"></i></li>
+</ul> 
 	<!--div class="container">
 		<!--Add image in main.css>	
 		</div>
