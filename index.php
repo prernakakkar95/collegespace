@@ -128,6 +128,43 @@
 <div>
 </div>
 <!--notices-->
+
+<div class="right_col1">
+                <div class="contact_tab">
+                    <h2>Latest Announcements</h2>
+                    <div class="link_box">
+                        <div class="newsEvent"> 
+                            <div class="innerNews">
+                               <ul id="ticker1" class="ticker" style="height: auto; text-align: left">
+                                 <li><div><b><marquee behavior="scroll" onMouseOver="this.stop()" onMouseOut="this.start() ">notices down here!!
+                                <div "><img src"cs.jpg" hight=100px width=50px /></div>
+                                 </marquee> </b></div></li>
+
+                                        
+
+                                </ul>
+                            </div>
+                        </div>
+                        <center>
+                            (<a id="HyperLink5" onclick="javascript:return false;" href="#">View all</a>)</center>
+                    </div>
+                    
+                    <div id="tbView">
+	
+                        <table width="100%">
+                            <tr>
+                                <td align="left">
+                                    </div>
+
+	</div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+
+
+</div>
 <div>
 </div>
 </section>
@@ -160,7 +197,9 @@
     <button type="button" class="btn btn-default btn-lg" id="myBtn">CONTACT US</button>
   </div>
 
+	
 	<!--Footer-->
+	<div class="fdown">
 	<div class="Footer">
 		<div class="container">
 		
@@ -215,6 +254,7 @@
       
     </div>
   </div> 
+</div>
 </div>
 
 	<!--js-->
