@@ -1,3 +1,159 @@
+
+.right_col1
+{   position:absolute; 
+    float: right;
+  top:600px;
+   right:0px;
+  //  margin:7% 0%;
+ 
+    width: 230px;
+}
+
+
+.contact_tab
+{
+    background: #009fd3;
+    height: 33px;
+    position: relative;
+    text-align: center;
+    width: 230px;
+    border-bottom: 1px solid #b7c3fa;
+    border-radius: 5px 5px 0 0;
+}
+
+.contact_tab2
+{
+    background: #009fd3;
+    height: 33px;
+    position: relative;
+    text-align: center;
+    width: 230px;
+    border-bottom: 1px solid #b7c3fa;
+    border-radius: 5px 5px 0 0;
+    border-bottom: 1px solid #b7c3fa;
+}
+
+    .contact_tab h2, .contact_tab2 h2
+    {
+        color: #fff;
+        font-family: Arial;
+        font-size: 10pt;
+        font-weight: bold;
+        margin: 0;
+        line-height: 33px;
+        text-align: center;
+        width: auto !important;
+    }
+
+
+
+.link_box
+{
+    margin-bottom: 10px;
+    padding: 0 1% 1%;
+    width: 97%;
+    border: solid 1px #f0f0f0;
+    border-bottom: 3px solid #dadada;
+}
+
+    .link_box ul
+    {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .link_box li
+    {
+        background: url("../../Images/arrow.png") no-repeat scroll 0 9px transparent;
+        border-bottom: 1px solid #e3e3e3;
+        display: block;
+        font-size: 13px;
+        padding-left: 18px;
+    }
+
+        .link_box li a
+        {
+            color: #424242;
+            display: block;
+            font-size: 11px;
+            padding: 8px 0;
+            text-decoration: none;
+        }
+
+            .link_box li a:hover
+            {
+                color: #DA0202;
+            }
+
+
+
+.newsEvent
+{
+    margin-bottom: 0;
+    height: 200px;
+    overflow: hidden;
+}
+
+    .newsEvent div.innerNews
+    {
+        padding: 10px;
+        height: 200px;
+    }
+
+    .newsEvent ul
+    {
+        height: 160px;
+        padding: 7px;
+    }
+
+        .newsEvent ul li
+        {
+            background: none transparent;
+            font-size: 11px;
+            line-height: 1.5em;
+            margin: 0;
+            text-align: left;
+            border-bottom: dashed 1px #ccc;
+            padding: 5px 0;
+            color: #424242;
+        }
+
+            .newsEvent ul li:hover
+            {
+                color: #000;
+                text-decoration: none;
+            }
+
+     
+
+
+.ticker
+{
+    overflow: auto;
+    position: relative;
+}
+
+    .ticker li                               
+                                   
+    {
+        display: block;
+    }
+
+    .ticker div
+    {
+        margin-top: 0;
+    }
+
+
+.fdown{
+position:absolute;
+top:990px;
+float:right;
+left:"100%";
+}
+
+
 #links{
 list-style:none;
 display:flex;
