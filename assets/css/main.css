@@ -146,14 +146,6 @@
     }
 
 
-.fdown{
-position:absolute;
-top:990px;
-float:right;
-left:"100%";
-}
-
-
 #links{
 list-style:none;
 display:flex;

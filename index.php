@@ -137,7 +137,7 @@
                             <div class="innerNews">
                                <ul id="ticker1" class="ticker" style="height: auto; text-align: left">
                                  <li><div><b><marquee behavior="scroll" onMouseOver="this.stop()" onMouseOut="this.start() ">notices down here!!
-                                <div "><img src"cs.jpg" hight=100px width=50px /></div>
+                                <div ><img src"cs.jpg" hight=100px width=50px /></div>
                                  </marquee> </b></div></li>
 
                                         
@@ -199,7 +199,6 @@
 
 	
 	<!--Footer-->
-	<div class="fdown">
 	<div class="Footer">
 		<div class="container">
 		
