@@ -193,9 +193,9 @@
                             </form>
 	</section>
 
-  <div class="contact">
+ <!-- <div class="contact">
     <button type="button" class="btn btn-default btn-lg" id="myBtn">CONTACT US</button>
-  </div>
+  </div>-->
 
 	
 	<!--Footer-->
@@ -226,7 +226,7 @@
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
     
-      <!-- Modal content-->
+      <!-- Modal content--
       <div class="modal-content">
         <div class="modal-header" style="padding:35px 50px;">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -249,7 +249,7 @@
         <div class="modal-footer">
           <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal" ><span class="glyphicon glyphicon-remove"></span> Cancel</button>
         </div>
-      </div>
+      </div>-->
       
     </div>
   </div> 
@@ -261,11 +261,11 @@
     <script src="./assets/js/bootstrap.min.js"></script>
     <script src="./assets/js/smoothscroll.js"></script>
     <script>
-$(document).ready(function(){
+<!--$(document).ready(function(){
     $("#myBtn").click(function(){
         $("#myModal").modal();
     });
-});
+});-->
 </script>
 </body>
 </html>
