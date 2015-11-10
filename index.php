@@ -136,8 +136,8 @@
                         <div class="newsEvent"> 
                             <div class="innerNews">
                                <ul id="ticker1" class="ticker" style="height: auto; text-align: left">
-                                 <li><div><b><marquee behavior="scroll" onMouseOver="this.stop()" onMouseOut="this.start() ">notices down here!!
-                                <div ><img src"cs.jpg" hight=100px width=50px /></div>
+                                 <li><div><b><marquee behavior="scroll" onMouseOver="this.stop()" onMouseOut="this.start() "><div id="t1">notices down here!!</div>
+                                <div ></div>
                                  </marquee> </b></div></li>
 
                                         

@@ -1,4 +1,12 @@
-
+h2{
+	color:black;
+}
+strong{
+	color:black;
+}
+#t1{
+	color:blue;
+}
 .right_col1
 {   position:absolute; 
     float: right;
