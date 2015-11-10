@@ -8,7 +8,12 @@
  
     width: 230px;
 }
+body{
 
+background-image:url("../images/bg2.jpg");
+width:100%;
+height:100%;
+}
 
 .contact_tab
 {

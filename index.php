@@ -20,7 +20,7 @@
 	<div class="CS-cover">
 	
 
-<img src="./assets/images/cs.jpg" height=188px width="100%"/>
+<img src="./assets/images/image03.jpg" height=188px width="100%"/>
 
 <div class="b">
 <input type="button" id="btn1" value="login student" />
