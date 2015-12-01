@@ -16,22 +16,24 @@
 	
 </head>
 <body>
+<header>
 <!--  written nsit with collegespace -->
 	<div class="CS-cover">
 	
-
-<img src="./assets/images/image03.jpg" height=188px width="100%"/>
+<img  id="logo" src="./assets/images/nsit.gif">
+<img id="cs" src="./assets/images/logo.jpg" height="110px" width="132px">
+<!--img src="./assets/images/bg2.jpg" height=188px width="100%"/-->
 
 <div class="b">
-<input type="button" id="btn1" value="login student" />
+<input type="button" id="btn1" value="login student"></input>
 </div>
 <div class="c">
-<input type="button" id="btn1" value="login faculty " />
+<input type="button" id="btn1" value="login faculty " ></input>
 </div>
 <input type="textbox" placeholder="SEARCH" id="txt1" width="35px" />
-<input type="button" id="btn2" value="go" />
+<input type="button" id="btn2" value="go"></input>
 
-
+</div>
 
    
 <ul id="links">
@@ -68,7 +70,7 @@
   		</div>
 	</nav>
   
-
+</header>
 	<!-- carousel -images of college-->         
 	<div class="Roller">
 		<div class="container">
@@ -125,7 +127,8 @@
 <div>
 </div>
 <!-- buzz-->
-<div>
+<div id="buzz">
+<img src="./assets/images/buzz3.gif" height="180px" width="200px">
 </div>
 <!--notices-->
 
@@ -165,8 +168,6 @@
 
 
 </div>
-<div>
-</div>
 </section>
 	<section style="width:400px;">
 	 <form id="contact">
@@ -193,16 +194,15 @@
                             </form>
 	</section>
 
- <!-- <div class="contact">
+ <!--div class="contact">
     <button type="button" class="btn btn-default btn-lg" id="myBtn">CONTACT US</button>
-  </div>-->
+  </div-->
 
 	
 	<!--Footer-->
-	<div class="Footer">
-		<div class="container">
-		
-    <!--Links to Social Platforms-->
+	<footer>
+	<div id="box">
+     <!--Links to Social Platforms-->
     <div id="outer">
    <div class="inner"><a href="https://www.facebook.com/collegespace/" target="_blank" class="btn btn-block btn-social-icon btn-facebook" style="background-color:#3B5998 ;width:50px">
     <i class="fa fa-facebook fa-2x" ></i><a></div>
@@ -215,18 +215,18 @@
   </div>
 
   
-			<p> © 2015 CollegeSpace. All rights reserved</p>
+			<div id="copyright"><p> © 2015 CollegeSpace. All rights reserved</p></div>
 	
 
-		</div>
-	</div>
+	</div>	
+	</footer>
   
     <!-- Modal -->
 
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
     
-      <!-- Modal content--
+      <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header" style="padding:35px 50px;">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -249,7 +249,7 @@
         <div class="modal-footer">
           <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal" ><span class="glyphicon glyphicon-remove"></span> Cancel</button>
         </div>
-      </div>-->
+      </div>
       
     </div>
   </div> 
@@ -261,11 +261,11 @@
     <script src="./assets/js/bootstrap.min.js"></script>
     <script src="./assets/js/smoothscroll.js"></script>
     <script>
-<!--$(document).ready(function(){
+$(document).ready(function(){
     $("#myBtn").click(function(){
         $("#myModal").modal();
     });
-});-->
+});
 </script>
 </body>
 </html>

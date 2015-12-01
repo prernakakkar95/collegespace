@@ -4,6 +4,32 @@ h2{
 strong{
 	color:black;
 }
+#logo{
+	position:relative;
+	left:500px;
+	top:10px;
+}
+#cs{
+	position:relative;
+	top:3px;
+	left:210px;
+}
+#box{
+	height:100px;
+	background-color:#734d26;
+}
+#buzz{
+	position:relative;
+	top:10px;
+	left:550px;
+}
+#copyright{
+	position:relative;
+	bottom:1px;
+	left:550px;
+	color:black;
+}
+
 #t1{
 	color:blue;
 }
