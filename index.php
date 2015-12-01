@@ -125,10 +125,11 @@
 <!--societies-->
 
 <div>
+<img src="./assets/images/socities.gif" height="100px" width="250px">
 </div>
 <!-- buzz-->
-<div id="buzz">
-<img src="./assets/images/buzz3.gif" height="180px" width="200px">
+<div>
+<img id="buzz" src="./assets/images/buzz3.gif" height="180px" width="200px">
 </div>
 <!--notices-->
 
