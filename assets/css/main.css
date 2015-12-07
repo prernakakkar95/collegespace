@@ -9,6 +9,18 @@ strong{
 	left:500px;
 	top:10px;
 }
+
+ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+.hov>ul{
+	display:none;
+}
+.hov:hover.hov>ul{
+	display:block;
+}
 #cs{
 	position:relative;
 	top:3px;

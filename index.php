@@ -58,11 +58,39 @@
       			</button>
       			<a class="navbar-brand" href="#">College Space</a>
     		</div>
-    		<div class="collapse navbar-collapse" id="myNavbar">
+    		<div class="collapse navbar-collapse" id="myNavbar" class="dropdown">
       			<ul class="nav navbar-nav ">
         			<li class="active"><a href="#">HOME</a></li>
-					<li><a href="#">OUR FACULTY</a></li>
-					<li><a href="#">STUDENT RESOURCES</a></li>
+					<li class="hov"><a href="#"> OUR FACULTY</a>
+					
+					<ul class="dropdown-menu">
+					<li><a href="#">Electronics and Communications</a></li>
+					<li class="divider"></li>
+					<li><a hef="#">Computer Engineering</a></li>
+					<li class="divider"></li>
+					<li><a href="#">Instrumentation and Control</a></li>
+					<li class="divider"></li>
+					<li><a href="#">Biotechnology</a></li>
+					<li class="divider"></li>
+					<li><a href="#">Information Technology</a></li>
+					<li class="divider"></li>
+					<li><a href="#">Manufacturing Processes and Automation</a></li>
+					
+				</ul>
+			
+					</li>
+					<li class="hov"><a href="#">STUDENT RESOURCES</a>
+					<ul class="dropdown-menu">
+					<li><a href="#">Academic Calender</a></li>
+					<li class="divider"></li>
+					<li><a hef="#">Syllabus</a></li>
+					<li class="divider"></li>
+					<li><a href="#">Results</a></li>
+					<li class="divider"></li>
+					<li><a href="#">Notes</a></li>
+					
+				</ul>
+					</li>
 					<li><a href="#">OTHER RESOURCES</a></li>
 					<li><a href="#contact">CONTACT NSIT</a></li>
 					<li><a href="#">THE CS TEAM</a></li>
