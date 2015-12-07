@@ -83,7 +83,7 @@
 					<ul class="dropdown-menu">
 					<li><a href="#">Academic Calender</a></li>
 					<li class="divider"></li>
-					<li><a hef="#">Syllabus</a></li>
+					<li><a href="#">Syllabus</a></li>
 					<li class="divider"></li>
 					<li><a href="#">Results</a></li>
 					<li class="divider"></li>
