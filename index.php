@@ -8,10 +8,13 @@
 	<!-- BOOTSTRAP CSS -->
 	<link rel="stylesheet" href="./assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./assets/css/main.css">
+        <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
    
 	<!-- FONT ICONS -->
+	
     <link rel="stylesheet" href="./assets/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="./assets/css/icomoon.css">
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
 
 
 	
