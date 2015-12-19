@@ -162,7 +162,7 @@
         
 
 <div class="left" id="worldShowcaseTop">
-    <h2 class="tight">SOCITIES OF NSIT</h2>
+    <h2 class="tight">SOCIETIES OF NSIT</h2>
     
             
             <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeatureHeroListView_worldShowcase_0" class="block left worldShowcase">
