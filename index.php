@@ -150,10 +150,172 @@
 		</div>
 	</div>
 	<!-- in page/new tab sections-->
-
+</div>
 <!--societies-->
 <div >
+ <div class="left">
 <img src="./assets/images/socities.gif" height="100px" width="250px">
+    <div class="" style="width: 470px">
+        
+
+<div class="left" id="worldShowcaseTop">
+    <h2 class="tight">SOCITIES OF NSIT</h2>
+    
+            
+            <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeatureHeroListView_worldShowcase_0" class="block left worldShowcase">
+                <a class="showcaseScreenshotAnchor" href="http://www.collegespace.in" >
+                    <img class="showcaseScreenshot" src="http://collegespace.in/img/logo1.png">
+                </a>
+                <div class="infoOverlay">
+                    <div>
+                        <a class="name h1 wrap-1" href="http://www.collegespace.in">COLLEGESPACE</a>
+                    </div>
+                    <div class="">
+                        <span class="left h2 clear">contact <a class="creator em1" href="">co-ordinator</a></span>
+                        <span class="left featuredDescription h3 clear">get latest news,notes,results,etc. !</span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeatureHeroListView_worldShowcase_1" class="block left worldShowcase" style="display: none;">
+                <a class="showcaseScreenshotAnchor" href="">
+                    <img class="showcaseScreenshot" src="http://nsitonline.in/images/resized/images/societies/IEEE_109_108.png">
+                </a>
+                <div class="infoOverlay">
+                    <div>
+                        <a class="name h1 wrap-1" href="">IEEE</a>
+                    </div>
+                    <div class="">
+                        <span class="left h2 clear">contact<a class="creator em1" href="/Creator/0">head</a></span>
+                        <span class="left featuredDescription h3 clear">learn programming!</span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeatureHeroListView_worldShowcase_2" class="block left worldShowcase" style="display: none;">
+                <a class="showcaseScreenshotAnchor" href="#">
+                    <img class="showcaseScreenshot" src="http://nsitonline.in/images/resized/images/societies/CSI_130_130.jpg">
+                </a>
+                <div class="infoOverlay">
+                    <div>
+                        <a class="name h1 wrap-1" href="#">CSI NSIT</a>
+                    </div>
+                    <div class="">
+                        <span class="left h2 clear">contact <a class="creator em1" href="/Creator/0">head</a></span>
+                        <span class="left featuredDescription h3 clear">!!!!!</span>
+                    </div>
+                </div>
+            </div>
+        
+            <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeatureHeroListView_worldShowcase_3" class="block left worldShowcase" style="display: none;">
+                <a class="showcaseScreenshotAnchor" href="#">
+                    <img class="showcaseScreenshot" src="http://nsitonline.in/images/resized/images/finallll%201_130_130.jpg">
+                </a>
+                <div class="infoOverlay">
+                    <div>
+                        <a class="name h1 wrap-1" href="#">ASWAMEDH NSIT</a>
+                    </div>
+                    <div class="">
+                        <span class="left h2 clear">contact <a class="creator em1" href="/Creator/0">coordinator</a></span>
+                        <span class="left featuredDescription h3 clear">dramatic society of NSIT</span>
+                    </div>
+                </div>
+            </div>
+        
+        
+</div>
+
+<div class="left">
+
+    <div id="featuredGallery" class="span-9">
+        <span class="span-9 first last">
+            <span class="left span-9 tight wrap-1"></span>
+            <span class="span-9 fall-1"></span>
+        </span>
+        
+                
+                <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeaturesListView_thumbnailDiv_0" class="galleryItem span-3 relative selected">
+                    <div class="highlight"></div>
+                    <a class="worldThumbnail gallery block layer-1" href="/world/9AJ0Th-oHkihtTkGG4QSIw==">
+                        <img src="http://collegespace.in/img/logo1.png" class="">
+                    </a><a class="wrap-1 span-3 layer-1" href="http://www.collegespace.in">COLLEGESPACE</a>
+                    <div class="span-3 layer-1">
+                        <div class="left" style="width: 15%">-> </div>
+                        <a class="wrap-1 right" style="width: 84%" href="/Creator/33324">contact team</a>
+                    </div>
+                    <div class="fall-1 span-3"></div>
+                </div>
+            
+                <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeaturesListView_thumbnailDiv_1" class="galleryItem span-3 relative">
+                    <div class="highlight"></div>
+                    <a class="worldThumbnail gallery block layer-1" href="/world/SlTv_LbxvkemY6sD75mByw==">
+                        <img src="http://nsitonline.in/images/resized/images/societies/IEEE_109_108.png" class="">
+                    </a><a class="wrap-1 span-3 layer-1" href="/world/SlTv_LbxvkemY6sD75mByw==">IEEE NSIT</a>
+                    <div class="span-3 layer-1">
+                        <div class="left" style="width: 15%">join</div>
+                        <a class="wrap-1 right" style="width: 84%" href="/Creator/0">membership</a>
+                    </div>
+                    <div class="fall-1 span-3"></div>
+                </div>
+            
+                <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeaturesListView_thumbnailDiv_2" class="galleryItem span-3 relative">
+                    <div class="highlight"></div>
+                    <a class="worldThumbnail gallery block layer-1" href="/world/6kKgMiPezkGEra1cM_55Hw==">
+                        <img src="http://nsitonline.in/images/resized/images/societies/CSI_130_130.jpg" class="">
+                    </a><a class="wrap-1 span-3 layer-1" href="/world/6kKgMiPezkGEra1cM_55Hw==">CSI NSIT</a>
+                    <div class="span-3 layer-1">
+                        <div class="left" style="width: 15%"> get</div>
+                        <a class="wrap-1 right" style="width: 84%" href="/Creator/0">registered</a>
+                    </div>
+                    <div class="fall-1 span-3"></div>
+                </div>
+            
+                <div id="ContentPlaceHolderDefault_mainContent_KoduHomePageFeatures_4_FeaturesListView_thumbnailDiv_3" class="galleryItem span-3 relative">
+                    <div class="highlight"></div>
+                    <a class="worldThumbnail gallery block layer-1" href="/world/QnxDzqW4A0-Sb7f1FW_67Q==">
+                        <img src="http://nsitonline.in/images/resized/images/finallll%201_130_130.jpg" class="">
+                    </a><a class="wrap-1 span-3 layer-1" href="/world/QnxDzqW4A0-Sb7f1FW_67Q==">ASWAMEDH NSIT</a>
+                    <div class="span-3 layer-1">
+                        <div class="left" style="width: 15%">contact </div>
+                        <a class="wrap-1 right" style="width: 84%" href="/Creator/0">team</a>
+                    </div>
+                    <div class="fall-1 span-3"></div>
+                </div>
+      
+                
+            
+            
+    </div>
+</div>
+<script type="text/javascript">
+    // Slideshow animation
+    var featureHeroContainer = $("#worldShowcaseTop > div");
+    var thumbnailContainer = $("#featuredGallery > div");
+    var currentSlide = 0;
+    var slideCount = $("#worldShowcaseTop").children("div").length;
+    var startInt = null;
+    startSlideShow();
+
+    function startSlideShow() {
+        window.clearInterval(startInt);
+        startInt = window.setInterval(function () {
+            switchSlides((currentSlide == slideCount - 1) ? 0 : currentSlide + 1);
+        }, 5000);
+    }
+
+    function switchSlides(theNextSlide) {
+        featureHeroContainer.eq(currentSlide).hide();
+        featureHeroContainer.eq(theNextSlide).show();
+        thumbnailContainer.eq(currentSlide).removeClass("selected");
+        thumbnailContainer.eq(theNextSlide).addClass("selected");
+        currentSlide = theNextSlide;
+    }
+</script>
+
+        <div class="span-9 fall-2">
+            <h2 class="tight">EXPLORE!</h2>
+            </div>
+
 </div>
 </div>
 <!-- buzz-->
