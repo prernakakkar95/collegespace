@@ -31,9 +31,10 @@ ul{
 	background-color:#734d26;
 }
 #buzz{
-	position:relative;
+	position:absoute;
 	top:-92px;
 	left:550px;
+
 }
 #t1{
 	color:blue;
@@ -304,7 +305,9 @@ right:15px;
 	font-weight: bold;
 }
 .Footer {
-    bottom: 0;
+    position:relative;
+	left:0px;
+  top:500px;
 	height:100px;
 	width: 100%;
 	background-color: #202020;
