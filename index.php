@@ -155,7 +155,7 @@
 	<!-- in page/new tab sections-->
 </div>
 <!--societies-->
-<div >
+<!--div >
  <div class="left">
 <img src="./assets/images/socities.gif" height="100px" width="250px">
     <div class="" style="width: 470px">
@@ -320,7 +320,7 @@
             </div>
 
 </div>
-</div>
+</div-->
 <!-- buzz-->
 <div>
 <img id="buzz" src="./assets/images/buzz3.gif" height="180px" width="200px">
