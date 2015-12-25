@@ -1,6 +1,6 @@
 
-
-/* reset.css */
+/*
+/* reset.css 
 html {margin:0;padding:0;border:0;}
 body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 article, aside, details, figcaption, figure, dialog, footer, header, hgroup, menu, nav, section {display:block;}
@@ -11,7 +11,7 @@ blockquote, q {quotes:"" "";}
 a img {border:none;}
 :focus {outline:0;}
 
-/*blue2.css*/
+/*blue2.css
 body {text-align:center;}
 .container {text-align:left;}
 * html .column, * html .span-1, * html .span-2, * html .span-3, * html .span-4, * html .span-5, * html .span-6, * html .span-7, * html .span-8, * html .span-9, * html .span-10, * html .span-11, * html .span-12, * html .span-13, * html .span-14, * html .span-15, * html .span-16, * html .span-17, * html .span-18, * html .span-19, * html .span-20, * html .span-21, * html .span-22, * html .span-23, * html .span-24 {display:inline;overflow-x:hidden;}
@@ -26,7 +26,7 @@ img {-ms-interpolation-mode:bicubic;}
 fieldset {padding-top:0;}
 
 
-/* typography.css */
+/* typography.css /
 html {font-size:100.01%;}
 body {font-size:75%;color:#222;background:#fff;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;}
 h1, h2, h3, h4, h5, h6 {font-weight:normal;color:#111;}
@@ -38,7 +38,7 @@ h5 {font-size:1em;font-weight:bold;margin-bottom:1.5em;}
 h6 {font-size:1em;font-weight:bold;}
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
 p {margin:0 0 1.5em;}
-/*.left10{ position:relative; top:250px; left:20px; }*/
+/*.left10{ position:relative; top:250px; left:20px; }/
 .left {float:left !important; 
 }
 p .left {margin:1.5em 1.5em 1.5em 0;padding:0;}
@@ -98,7 +98,7 @@ hr.space {background:#fff;color:#fff;visibility:hidden;}
 .clearfix, .container {display:block;}
 .clear {clear:both;}
 
-/*STYLE.CSS*/
+/*STYLE.CSS/
 body 
 {
     font-family: 'Segoe UI Regular', 'Segoe UI', Arial, Helvetica, sans-serif;
@@ -217,7 +217,7 @@ b
 }
 .wrap-2
 {
-    /*ToDo(DZ): Show ellipses*/
+    /*ToDo(DZ): Show ellipses/
     text-overflow:ellipsis;
     overflow:hidden;
     height:35px;
@@ -235,7 +235,7 @@ b
 
 
 
-/*highlight*/
+/*highlight/
 .highlight
 {
     position:absolute; 
@@ -249,7 +249,7 @@ b
 }
 
 
-/*galleryItems*/
+/*galleryItems/
 .galleryItem .highlight
 {
     width:110px;
@@ -267,7 +267,7 @@ b
     background-color:#ffe76a;
 }
 
-/*worldThumbnails*/
+/*worldThumbnails/
 .worldThumbnail
 {
     text-align:center;
@@ -309,7 +309,7 @@ b
     behavior: url(/PIE.htc);
 }
 
-/*userThumbnails*/
+/*userThumbnails/
 .userThumbnail
 {    
     box-shadow: 0px 0px 12px #444;
@@ -324,7 +324,7 @@ b
     behavior: url(/PIE.htc);
 }
 
-/*pagination*/
+/*pagination/
 .pageLink
 {
     padding:2px 4px;
@@ -361,7 +361,7 @@ b
     color:#EEE
 }
 
-/*HOME.CSS*/
+/*HOME.CSS/
 .worldShowcase
 {
     border-radius:12px;
