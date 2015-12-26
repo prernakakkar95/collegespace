@@ -74,7 +74,7 @@
 					<ul class="dropdown-menu">
 					<li><a href="#">Electronics and Communications</a></li>
 					<li class="divider"></li>
-					<li><a hef="#">Computer Engineering</a></li>
+					<li><a href="#">Computer Engineering</a></li>
 					<li class="divider"></li>
 					<li><a href="#">Instrumentation and Control</a></li>
 					<li class="divider"></li>
