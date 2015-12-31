@@ -230,6 +230,9 @@
 
     <div class="inner"><a href="https://www.linkedin.com/company/collegespace" target="_blank" class="btn btn-block btn-social-icon btn-linkedin" style="background-color:#007BB6 ;width:50px">
     <i class="fa fa-linkedin fa-2x" ></i><a></div>
+
+    <div class="inner"><a href="https://plus.google.com/communities/118256355148042817165" target="_blank" class="btn btn-block btn-social-icon btn-google" style="background-color:#DD4B39 ;width:50px">
+    <i class="fa fa-google-plus fa-2x" ></i><a></div>
   </div>
 
   
