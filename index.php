@@ -236,7 +236,7 @@
   </div>
 
   
-			<div ><p> © 2015 CollegeSpace. All rights reserved</p></div>
+			<div ><p> © 2016 CollegeSpace. All rights reserved</p></div>
 	
 
 	</div>	
